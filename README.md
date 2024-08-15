@@ -1,0 +1,6 @@
+# [Первичная обработка данных](https://github.com/KseniyaGulina/MathStat-uni-projects/blob/6cde841670d28fb38ee33c67d46d680b890b2a18/%D0%9F%D0%97%D0%9C%D0%A1_1.ipynb)
+# [Интервальная оценка параметров](https://github.com/KseniyaGulina/MathStat-uni-projects/blob/6cde841670d28fb38ee33c67d46d680b890b2a18/%D0%9F%D0%97%D0%9C%D0%A1_2.ipynb)
+# [Идентификация распределений](https://github.com/KseniyaGulina/MathStat-uni-projects/blob/6cde841670d28fb38ee33c67d46d680b890b2a18/%D0%9F%D0%97%D0%9C%D0%A1_3.ipynb)
+# [Генерация распределений](https://github.com/KseniyaGulina/MathStat-uni-projects/blob/6cde841670d28fb38ee33c67d46d680b890b2a18/%D0%9F%D0%97%D0%9C%D0%A1_4.ipynb)
+# [Регрессионный анализ зависимостей](https://github.com/KseniyaGulina/MathStat-uni-projects/blob/6cde841670d28fb38ee33c67d46d680b890b2a18/%D0%9F%D0%97%D0%9C%D0%A1_5.ipynb)
+# [Сглаживание временных рядов](https://github.com/KseniyaGulina/MathStat-uni-projects/blob/6cde841670d28fb38ee33c67d46d680b890b2a18/%D0%9F%D0%97%D0%9C%D0%A1_6.ipynb)
